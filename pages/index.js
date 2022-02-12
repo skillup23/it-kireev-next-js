@@ -26,7 +26,6 @@ const Home = ({ socials }) => (
     <Heading text="It-Kireev1" />
     <Socials socials={socials} />
   </div>
->>>>>>> develop
 );
 
 export default Home;
